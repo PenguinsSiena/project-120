@@ -1,0 +1,52 @@
+img{
+    width: 200px;
+}
+body{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#test{
+    font-size: 20px;
+}
+.img_result{
+  background-color: rgb(163, 235, 255);  
+  border-radius: 30px;
+  margin-left: 40px; 
+  margin-right: 70px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  height: 60%;
+}
+
+.copy-right-footer{
+    width: 100%;
+    bottom: 0px;
+    background-color: rgb(163, 235, 255);
+    text-align: center;
+    position: fixed;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px 1px rgb(205, 205, 205);
+    color: rgb(0, 0, 0);
+    line-height: 25px;
+  }
+li{
+    float: left;
+    padding-left: 20px;
+}
+#mob, #gog{
+    float: left;
+    font-size: 20px;
+}
+#gog{
+    margin-left: 80px;
+    padding-right: 30px;
+}
+#mob{
+   margin-right: 70px;
+}
+.mini_result{
+    float: left;
+    font-size: 20px;
+    padding-right: 50px;
+}
